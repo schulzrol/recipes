@@ -26,9 +26,11 @@ favorite: ✓
 
 ---
 
-* roztíratelná čokoláda (Nutella, Nugeta apod.)
+* roztíratelná čokoláda
+  (Nutella, Nugeta apod.)
 * marmeláda
-* mražené nebo čerstvé ovoce (jahody, banán, rybíz, ...)
+* mražené nebo čerstvé ovoce
+  (jahody, banán, rybíz, ...)
 * šlehačka
 * moučkový cukr
 * oříšky v celku
