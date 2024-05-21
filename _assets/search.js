@@ -46,6 +46,9 @@ function search(query) {
         if (matchesEvery(e["description"], query)) score += 2;
         if (matchesEvery(e["htmlfile"], query)) score += 1;
 
+        // in case query asks for favourites
+        if (e["favorite"] && matchesAny("favourite favorite fav oblibene oblíbené", query)) score +=20;
+        
         // significantly increase score if the query occurs right at the start of the (original) title
         if (matchesStart(e["title"], query)) score += 10;
         if (matchesStart(e["original_title"], query)) score += 5;
