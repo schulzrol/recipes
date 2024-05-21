@@ -3,10 +3,8 @@ title: Sladké palačinky
 original_title: Crêpes
 description: Univerzální dezert
 category: Dezert
-#nutrition:
-#
 image: image/palacinky.png
-size: `8-10` porcí
+size: 8-10 porcí
 time: 20 minut
 sweet: ✓
 favorite: ✓
