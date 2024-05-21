@@ -1,5 +1,5 @@
 ---
-title: Cheese Buldak
+title: Sýrový Buldak
 original_title: 치즈불닭
 category: Korean Food
 description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
