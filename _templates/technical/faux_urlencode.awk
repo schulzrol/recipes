@@ -47,7 +47,7 @@ function encode(str, c, len, res) {
         if (c ~ /[0-9a-z]/)                         # changed to only lowercase
             res = res c
         else if (c == " ")                          # added
-            res = res                               # added
+            res = res "_"                           # added
         else
             #res = res "%" sprintf("%02X", ord[c])  # removed
             res = res sprintf("%02X", ord[c])       # added
