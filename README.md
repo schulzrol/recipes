@@ -1,50 +1,6 @@
-# nyum
-
-*A simple Pandoc-powered static site generator for your recipe collection.*
-
-<img src="_assets/favicon.png" align="right" width="96">
-
-This tool takes a **collection of Markdown-formatted recipes** and turns it into a **lightweight, responsive, searchable website** for your personal use as a reference while cooking, or for sharing with family and friends. It's *not* intended as a cooking blog framework – there's no RSS feed, no social sharing buttons, and absolutely zero SEO.
-
-📓 Think of it as a **cookbook for nerds**.
-
-Below the screenshots, you'll find some notes on [setting this tool up](#setup), [running it](#building), [formatting your recipes](#formatting), and [deploying the generated site](#deployment).
-
-
-## Screenshots
-
-If you prefer a live website over the following screenshots, feel free to **check out the [demo on GitHub Pages](https://doersino.github.io/nyum/_site/index.html)**!
-
-On an old-fashioned computer, a [recipe](https://doersino.github.io/nyum/_site/cheesebuldak.html) might look more or less like this – notice the little star indicating that this is a favorite!
-
-![](_assets/readme-images/1-laptop.jpg)
-
-Below, on the right, is the same page shown at tablet scale. More interestingly, the index page is shown on the left (with an active search) – note that you can, of course, customize the title and description.
-
-![](_assets/readme-images/2-tablets.jpg)
-
-Finally, more of the same on three phone-sized screens. The three-column layout doesn't fit here, so instructions are shown below ingredients. And *of course* the light's turned off if you've enabled dark mode on your device.
-
-![](_assets/readme-images/3-phones.jpg)
-
+# recipes
 
 ## Usage
-
-### Setup
-
-First off, either `git clone` this repository or [download it as a ZIP](https://github.com/doersino/nyum/archive/refs/heads/main.zip). (You can clear out the `_recipes/` and `_site/` directories to get rid of the demo data.)
-
-I don't like complicated dependency trees and poorly-documented build processes, so here's an **exhaustive list of the dependencies** you're not overwhelmingly likely to already have:
-
-* [Pandoc](https://pandoc.org) – version 2.8 (released in November 2019) or later *(earlier versions don't support partials/subtemplates)*.
-
-    On macOS, assuming you're using [Homebrew](https://brew.sh), `brew install pandoc` will do the trick. On Linux, your package manager almost certainly has it (although the version it provides might be outdated – recent binaries are available [here](https://github.com/jgm/pandoc/releases/latest)).
-
-That's it, only one dependency! Hooray!
-
-(Since `build.sh` relies on some Bash-specific bits and bobs and ubiquitous POSIX utilities like `awk` and `tee`, you'll also need those – but since Bash the default shell on most non-Windows systems, you're likely running it already. If you're a Windows user, don't despair: Through the magic of [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and possibly [some Git or text editor reconfiguration to deal with line endings](https://github.com/doersino/nyum/issues/10), it's definitely possible to run this tool. If you run into trouble, feel free to [file an issue](https://github.com/doersino/nyum/issues), but know that I might be unable to offer much well-founded advice.)
-
-
 ### Configuration
 
 Open `config.yaml` in whichever text editor you heart is drawn to in the moment and follow the instructions in the comments. There's not actually very much to configure.
@@ -57,9 +13,6 @@ You can, for example, change the language of your site. There's also a setting `
 Run `bash build.sh`.
 
 (It accepts a few optional flags, notably `--help` which tells you about the rest of them.)
-
-![](_assets/readme-images/4-build.gif)
-
 
 ### Formatting
 
@@ -219,36 +172,9 @@ Why, there are indeed! I'm 100% sure these could be remedied quite easily, but t
 * The value of `uncategorized_label` in `config.yaml` may not contain an odd number of double quotation marks `"`.
 * *Almost certainly more!*
 
-
-### What if I want to print one of the recipes with black water on dead wood?
-
-While this isn't a use case I'm particularly interested in, I've added a few CSS rules that should help with it.
-
-
-### How's browser support looking?
-
-The CSS I've written to render Pandoc's output in three columns is a bit fragile, but I've successfully coaxed it into yielding near-identical results in recent versions of Firefox, Chrome and Safari. If you run into any problems, please [file an issue](https://github.com/doersino/nyum/issues).
-
-
-### Any plans for future development?
-
-Eh, not really. Some proposed enhancements that I may or may not implement are tracked in [an issue](https://github.com/doersino/nyum/issues/1). And *content*, but that won't be publicly available.
-
-
 ### Is there a C-based tool that's much better but not yours, so your not-invented-here syndrome didn't permit you to use it?
 
 I think you might be alluding to Hundred Rabbits' [Grimgrains](https://github.com/hundredrabbits/GrimGrains). Big fan.
-
-
-### What's the dish in the background of `_assets/favicon.png`?
-
-That's the supremely tasty and [even more Instagram-worthy](https://www.instagram.com/p/B6vQOHDiySF/) "Half-Half Curry" served at [Monami Curry, Yongsan-gu, Seoul](https://www.google.com/maps/place/Monami+Curry+Seoul/@37.5298686,126.9707568,15z/data=!4m5!3m4!1s0x0:0x6ce40a80f13a74d5!8m2!3d37.5298686!4d126.9707568).
-
-
-### And what's with the name?
-
-"Nyum" is an onomatopoeia used to describe the noise made when eating. Like, "nom!", "yummy!".
-
 
 ## License
 
