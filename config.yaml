@@ -6,7 +6,7 @@ index_description:
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
 # versions of Pandoc). To disable, keep it blank.
-show_images_on_index:
+show_images_on_index: true
 
 # You can change the content language (really only relevant for hyphenation)
 # and related textual labels here.
