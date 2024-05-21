@@ -58,7 +58,7 @@ x cp -r _assets/ _site/assets/
 status "Copying static files..."
 for FILE in _recipes/*; do
     [[ "$FILE" == *.md ]] && continue
-    x cp "$FILE" _site/
+    x cp -r "$FILE" _site/
 done
 
 status "Extracting metadata..."
