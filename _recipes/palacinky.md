@@ -7,6 +7,7 @@ image: image/palacinky.png
 size: 8-10 porcí
 time: 20 minut
 sweet: ✓
+veggie: ✓
 favorite: ✓
 ---
 
