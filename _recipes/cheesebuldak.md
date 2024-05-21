@@ -3,7 +3,7 @@ title: Sýrový Buldak
 original_title: Cheese Buldak
 category: Korejské jídlo
 description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
-image: cheesebuldak.jpg
+image: image/cheesebuldak.jpg
 size: 2-3 servings
 time: 1 hour
 author: Maangchi

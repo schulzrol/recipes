@@ -39,6 +39,6 @@ spicy: ✓
 
 > Of course, the standard Markdown styling features are also at your disposal – **bold**, *italic*, and ~~strike-through~~, just to name a few. [Links](strawberrysmoothie.html) and images can be embedded in the usual way.
 >
-> ![](strawberrysmoothie.jpg)
+> ![](image/strawberrysmoothie.jpg)
 >
 > <marquee>Inline HTML, while inelegant (*especially* this tag), works too!</marquee>
