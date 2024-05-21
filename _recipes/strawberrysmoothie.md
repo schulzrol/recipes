@@ -6,7 +6,7 @@ nutrition:
   - 60 g sugar
   - 0.8 g fat
   - 3.8 g protein
-image: strawberrysmoothie.jpg
+image: image/strawberrysmoothie.jpg
 size: 2 servings
 time: 5 minutes
 veggie: ✓
