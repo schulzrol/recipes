@@ -3,6 +3,7 @@ title: Chicken Hummus Wrap
 category: Snack
 description: A satisfying wrap filled with grilled chicken, hummus, and veggies, perfect for on-the-go snacking.
 time: 30 minutes
+source: https://www.youtube.com/watch?v=J6HtWGk8xbo
 image: image/hummus_wrap.png
 servings: 1 wrap
 nutrition:
