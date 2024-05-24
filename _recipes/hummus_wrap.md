@@ -34,7 +34,7 @@ nutrition:
 
 > In a bowl, mix mayo, sour cream, zitar, red pepper flakes, and lemon juice until well combined.
 
-#### For the White Sauce
+## For the White Sauce
 
 ---
 
@@ -51,3 +51,5 @@ nutrition:
 > Add grilled chicken, followed by a drizzle of white sauce.
 > Top with lettuce, red onion, pepperoncini, and cherry tomatoes.
 > Wrap tightly and enjoy immediately or store in the fridge.
+
+## Assembly
