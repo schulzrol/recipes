@@ -1,5 +1,5 @@
 [
 {"nutrition":["230 calories","11g carbs","9g fat","28g protein"],"title":"Chicken Hummus Wrap","category":"Snack","source":"https://www.youtube.com/watch?v=J6HtWGk8xbo","image":"image/hummus_wrap.png","servings":"1 wrap","description":"A satisfying wrap filled with grilled chicken, hummus, and veggies, perfect for on-the-go snacking.","htmlfile":"hummus_wrap.html","time":"30 minutes"}
-,{"original_title":"Apple Pie","title":"Jablečný Koláč","category":"Dezert","image":"image/jablecny_kolac.jpg","veggie":"✓","favorite":"✓","description":"Společně připravíme výborný jablečný koláč, znalosti využiješ i při vánočním pečení!","htmlfile":"jablecny_kolac.html","sweet":"✓","size":"16 porcí","time":"45 minut"}
+,{"original_title":"Apple Pie","title":"Jablečný Koláč","category":"Dezert","image":"image/jablecny_kolac.jpg","veggie":"✓","favorite":"✓","description":"aneb co udělat s přebytkem jablek 🍎🍏","htmlfile":"jablecny_kolac.html","sweet":"✓","size":"16 porcí","time":"45 minut"}
 ,{"original_title":"Crêpes","title":"Sladké palačinky","category":"Dezert","image":"image/palacinky.png","veggie":"✓","favorite":"✓","description":"Univerzální dezert","htmlfile":"palacinky.html","sweet":"✓","size":"8-10 porcí","time":"20 minut"}
 ]
