@@ -62,6 +62,8 @@ favorite: ✓
 >
 > Dlaň těsta dej na rozložený pečící papír a válečkem vyválej na stejnou tloušťku těsta ve formě. #TODO Vyválej tvar nejméně shodných rozměrů jako je forma. Nakrájej rozválené těsto na proužky a opatrně překlop z pečícího papíru do ruky/obracečky a polož na jablka (nejčastější je mřížka - lattice).
 >
+> ![](jablecny_kolac_prouzky.webp)
+>
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
 > krustu koláče potři rozbitým žloutkem s vodou/mlíkem (egg wash)
 
