@@ -34,7 +34,7 @@ strings:
 # up, this effectively turns your site into a wiki.
 github_url: https://github.com/schullzroll/recipes
 
-site_author: https://www.linkedin.com/in/roland-schulz/
+site_author: Roland Schulz
 # Remote for deployment – the value of this setting will be passed to rsync as a
 # destination, so you probably want it to look like USER@SERVER:PATH. Make sure
 # it's correct – the path in particular – since otherwise stuff that shouldn't
