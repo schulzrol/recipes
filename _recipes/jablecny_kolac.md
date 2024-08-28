@@ -57,7 +57,8 @@ favorite: ✓
 * `dobrovolně` vykrajovátka
 
 > Předehřej troubu na `180 °C`.
-> Vyndej těsto a postupně vkládej a dusej těsto ve formě dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
+>
+> Vyndej těsto z lednice a postupně jej vkládej a dusej těsto ve formě dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
 >
 >>> pozor aby v rohu formy nebylo příliš těsta
 >
