@@ -58,7 +58,7 @@ favorite: ✓
 
 > Předehřej troubu na `180 °C`.
 >
-> Vyndej těsto z lednice a postupně jej vkládej a dusej ve formě, dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
+> Vyndej těsto z lednice a postupně jej vkládej a dusej ve formě, dokud nedosáhneš rovnoměrné tlouštky `0.5 cm` po celé ploše a stranách formy
 >
 >>> pozor aby v rohu formy nebylo příliš těsta
 >
