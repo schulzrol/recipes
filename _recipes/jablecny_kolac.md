@@ -19,6 +19,7 @@ favorite: ✓
 * `2-3 ks` střednich vajec (žloutky)
 
 > Smíchej hladkou mouku, prášek do pečiva, cukr, špetku soli, máslo, vajíčka (žloutky) v míse.
+
 > Míchej ingredience dokud nevytvoří homogenní hmotu a malá kulička při zmáčknutí mírně praská po okrajích (příliš suché → přidat máslo, příliš vlhké → přidat mouku)
 
 > Trouba 180 °C na 45 minut
