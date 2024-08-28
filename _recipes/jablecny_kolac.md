@@ -74,7 +74,7 @@ favorite: ✓
 >
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
 >
->>> krustu koláče potři rozbitým vajíčkem (nebo jen žloutkem) s vodou/mlíkem (egg wash)
+>>> krustu koláče potři rozmíchaným vajíčkem (nebo jen žloutkem) s vodou/mlíkem (egg wash)
 >
 
 ## Pečení & Servírování 🥧
