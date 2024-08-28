@@ -1,7 +1,7 @@
 ---
 title: Jablečný Koláč
 original_title: Apple Pie
-description: 
+description: Společně připravíme výborný jablečný koláč, znalosti využiješ i při vánočním pečení!
 category: Dezert
 image: image/jablecny_kolac.jpg
 size: 16 porcí
@@ -11,7 +11,7 @@ veggie: ✓
 favorite: ✓
 ---
 
-> Společně připravíme výborný jablečný koláč, znalosti využiješ i při vánočním pečení lineckého!
+> Společně připravíme výborný jablečný koláč, znalosti využiješ i při vánočním pečení!
 
 ## Těsto
 
