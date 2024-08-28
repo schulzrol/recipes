@@ -11,6 +11,12 @@ veggie: ✓
 favorite: ✓
 ---
 
+> Společně připravíme výborný jablečný koláč, znalosti využiješ i při vánočním pečení lineckého!
+
+## Těsto
+
+---
+
 * `400 g` hladké mouky
 * `12g` prášek do pečiva (1 sáček)
 * `125 g` cukr moučka
@@ -26,6 +32,8 @@ favorite: ✓
 >
 > Homogení hmotu (těsto) dej prozatím do ledničky (zabraň oxidaci)
 
+## Jablečná náplň
+
 ---
 
 * `7 ks` středních jablek
@@ -35,11 +43,14 @@ favorite: ✓
 > Okroužlej (oloupej) jablka a nakrájej na nanejvýš `2 cm` kostky. Jablka vhoď do hrnce, zasypej cukrem a vař na 8. stupeň dokud nezkaramelizují.
 > Skořici nasypej až ve chvíli, kdy budeš vypínat varnou desku.
 
+## Plnění jablky & dekorace
+
 ---
 
 * těsto z ledničky
 * forma na koláč
 * pečící papír o šířce formy
+* `dobrovolně` vykrajovátka
 
 > Předehřej troubu na `180 °C`.
 > Vyndej těsto a postupně vkládej a dusej těsto ve formě dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
@@ -49,12 +60,15 @@ favorite: ✓
 > Vyklop vařené jablka na těsto ve formě a rovnoměrně rozetři.
 >
 > Dlaň těsta dej na rozložený pečící papír a válečkem vyválej na stejnou tloušťku těsta ve formě. #TODO Vyválej tvar nejméně shodných rozměrů jako je forma. Nakrájej rozválené těsto na proužky a opatrně překlop z pečícího papíru do ruky/obracečky a polož na jablka (nejčastější je mřížka - lattice).
-
-* `dobrovolně` vykrajovátka
-
+>
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
 
-> Po dokončení dekorace vlož formu s koláčem do předehřáté trouby na `180 °C` po dobu 45 minut.
+## Pečení
+
+---
+> Po dokončení dekorace vlož formu s koláčem do předehřáté trouby na `180 °C` po dobu `45` minut.
+
+## Servírování 🥧
 
 ---
 
