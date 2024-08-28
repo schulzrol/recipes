@@ -166,6 +166,8 @@ done
 echo "]" >> _temp/search.json
 x cp -r _temp/search.json _site/
 
+x cp config.yaml _site
+
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
 
