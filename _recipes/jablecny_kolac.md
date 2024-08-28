@@ -65,17 +65,13 @@ favorite: ✓
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
 > krustu koláče potři rozbitým žloutkem s vodou/mlíkem (egg wash)
 
-## Pečení
-
+## Pečení & Servírování 🥧
 ---
-> Po dokončení dekorace vlož formu s koláčem do předehřáté trouby na `180 °C` po dobu `45` minut.
-
-## Servírování 🥧
-
----
-
+* trouba na `180 °C`
 * šlehačka
 * tvaroh s cukrem
 * cukr moučka
 
+> Po dokončení dekorace vlož formu s koláčem do předehřáté trouby na `180 °C` po dobu `45` minut.
+>
 > Po vytažení z trouby servíruj samotné nebo s některou z volitelných možností
