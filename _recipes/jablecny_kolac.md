@@ -69,7 +69,7 @@ favorite: ✓
 >
 > Proužky opatrně překlop z pečícího papíru do ruky/obracečky a polož na jablka (nejčastější metodou krusty je mřížka - lattice).
 >
-> ![](jablecny_kolac_prouzky.webp)
+> ![](image/jablecny_kolac_prouzky.webp)
 >
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
 >>> Krustu koláče potři rozbitým vajíčkem (nebo jen žloutkem) s vodou/mlíkem (egg wash)
