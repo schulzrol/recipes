@@ -40,7 +40,10 @@ favorite: ✓
 * `2 lžíce` moučkového cukru
 * `1 lžičky` skořice (podzimní)
 
-> Okroužlej (oloupej) jablka a nakrájej na nanejvýš `2 cm` kostky. Jablka vhoď do hrnce, zasypej cukrem a vař na 8. stupeň dokud nezkaramelizují.
+> Okroužlej (oloupej) jablka a nakrájej na kostky, proužky nebo plátky (přibližně `1 cm` tlusté)
+>
+>Jablka vhoď do hrnce, zasypej cukrem a vař na 8. stupeň dokud nezkaramelizují.
+>
 > Skořici nasypej až ve chvíli, kdy budeš vypínat varnou desku.
 
 ## Plnění jablky & dekorace
@@ -60,12 +63,16 @@ favorite: ✓
 >
 > Vyklop vařené jablka na těsto ve formě a rovnoměrně rozetři.
 >
-> Dlaň těsta dej na rozložený pečící papír a válečkem vyválej na stejnou tloušťku těsta ve formě. #TODO Vyválej tvar nejméně shodných rozměrů jako je forma. Nakrájej rozválené těsto na proužky a opatrně překlop z pečícího papíru do ruky/obracečky a polož na jablka (nejčastější je mřížka - lattice).
+> Dlaň těsta dej na rozložený pečící papír a válečkem vyválej na stejnou tloušťku těsta ve formě.
+>
+> Vyválej tvar shodných rozměrů jako je forma. Nakrájej rozválené těsto na proužky
+>
+> Proužky opatrně překlop z pečícího papíru do ruky/obracečky a polož na jablka (nejčastější metodou krusty je mřížka - lattice).
 >
 > ![](jablecny_kolac_prouzky.webp)
 >
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
-> krustu koláče potři rozbitým žloutkem s vodou/mlíkem (egg wash)
+>>> Krustu koláče potři rozbitým vajíčkem (nebo jen žloutkem) s vodou/mlíkem (egg wash)
 
 ## Pečení & Servírování 🥧
 
