@@ -12,7 +12,7 @@ favorite: ✓
 ---
 
 * `400 g` hladké mouky
-* `12g / 1 sáček` prášek do pečiva
+* `12g` prášek do pečiva (1 sáček)
 * `125 g` cukr moučka
 * `1 špetka` soli
 * `200 g` máslo (změklé, né rozpuštěné)
