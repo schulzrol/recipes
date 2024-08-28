@@ -26,7 +26,7 @@ favorite: ✓
 
 > Smíchej hladkou mouku, prášek do pečiva, cukr, špetku soli, máslo, vajíčka (žloutky) v míse.
 >
-> Míchej ingredience dokud nevytvoří homogenní hmotu a malá kulička této hmoty při zmáčknutí v dlani mírně praská po okrajích 
+> Hněť (míchej) rukama ingredience dokud nevytvoří homogenní hmotu a malá kulička této hmoty při zmáčknutí v dlani mírně praská po okrajích 
 >
 >>> příliš suché → přidat máslo, příliš vlhké → přidat mouku
 >
