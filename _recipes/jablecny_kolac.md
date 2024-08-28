@@ -66,6 +66,7 @@ favorite: ✓
 > krustu koláče potři rozbitým žloutkem s vodou/mlíkem (egg wash)
 
 ## Pečení & Servírování 🥧
+
 ---
 * trouba na `180 °C`
 * šlehačka
