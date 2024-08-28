@@ -64,7 +64,7 @@ favorite: ✓
 >
 > Vyklop vařené jablka na těsto ve formě a rovnoměrně rozetři.
 >
-> Dlaň těsta dej na rozložený pečící papír a válečkem vyválej na stejnou tloušťku těsta ve formě.
+> Kuličku těsta polož na rozložený pečící papír a válečkem vyválej na přibližně stejnou tloušťku jakou má již těsto ve formě.
 >
 > Vyválej tvar shodných rozměrů jako je forma. Nakrájej rozválené těsto na proužky
 >
