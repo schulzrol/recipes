@@ -15,8 +15,10 @@
     --horizontal-rule: #ddd;
     --footer: #bbb;
 
-    --sans: Barlow, Fabrikat, Helvetica, sans-serif;
-    --serif: Lora, Georgia, serif;
+    --sans: Helvetica, sans-serif;
+    --serif: Georgia, serif;
+    /*--sans: Barlow, Fabrikat, Helvetica, sans-serif;*/
+    /*--serif: Lora, Georgia, serif;*/
 
     --images-on-index-size: 5em;
 
