@@ -30,7 +30,7 @@ favorite: ✓
 >
 >>> příliš suché → přidat máslo, příliš vlhké → přidat mouku
 >
-> Homogení hmotu (těsto) dej prozatím do ledničky (zabraň oxidaci)
+> Homogení hmotu (těsto) přiklop a dej prozatím do ledničky
 
 ## Jablečná náplň
 
