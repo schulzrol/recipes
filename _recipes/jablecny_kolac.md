@@ -42,7 +42,7 @@ favorite: ✓
 
 > Okroužlej (oloupej) jablka a nakrájej na kostky, proužky nebo plátky (přibližně `1 cm` tlusté)
 >
->Jablka vhoď do hrnce, zasypej cukrem a vař na 8. stupeň dokud nezkaramelizují.
+>Jablka vhoď do hrnce, zasypej cukrem a vař na druhý nejvyšší stupeň dokud nezkaramelizují.
 >
 > Skořici nasypej až ve chvíli, kdy budeš vypínat varnou desku.
 
