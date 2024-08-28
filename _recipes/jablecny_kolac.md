@@ -38,9 +38,8 @@ favorite: ✓
 ---
 
 * těsto z ledničky
-* `1 ks` forma na koláč
+* forma na koláč
 * pečící papír o šířce formy
-* `dobrovolně` vykrajovátka
 
 > Předehřej troubu na `180 °C`.
 > Vyndej těsto a postupně vkládej a dusej těsto ve formě dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
@@ -50,6 +49,8 @@ favorite: ✓
 > Vyklop vařené jablka na těsto ve formě a rovnoměrně rozetři.
 >
 > Dlaň těsta dej na rozložený pečící papír a válečkem vyválej na stejnou tloušťku těsta ve formě. #TODO Vyválej tvar nejméně shodných rozměrů jako je forma. Nakrájej rozválené těsto na proužky a opatrně překlop z pečícího papíru do ruky/obracečky a polož na jablka (nejčastější je mřížka - lattice).
+
+* `dobrovolně` vykrajovátka
 
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
 
