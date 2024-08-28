@@ -166,7 +166,7 @@ done
 echo "]" >> _temp/search.json
 x cp -r _temp/search.json _site/
 
-x cp _temp/*.metadata.json _site
+x cp _temp/*.metadata.json _temp/*.category.json _site
 
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
