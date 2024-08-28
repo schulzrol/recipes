@@ -28,7 +28,7 @@ favorite: ✓
 >
 > Míchej ingredience dokud nevytvoří homogenní hmotu a malá kulička této hmoty při zmáčknutí v dlani mírně praská po okrajích 
 >
->>> příliš suché → přidat máslo, příliš vlhké → přidat mouku
+>>> příliš suché → přidat máslo, příliš vlhké → přidat mouku
 >
 > Homogení hmotu (těsto) přiklop a dej prozatím do ledničky
 
@@ -58,7 +58,7 @@ favorite: ✓
 
 > Předehřej troubu na `180 °C`.
 >
-> Vyndej těsto z lednice a postupně jej vkládej a dusej těsto ve formě dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
+> Vyndej těsto z lednice a postupně jej vkládej a dusej ve formě, dokud nedosáhneš rovnoměrné tlouštky `1/2 cm` po celé ploše a stranách formy
 >
 >>> pozor aby v rohu formy nebylo příliš těsta
 >
@@ -73,7 +73,7 @@ favorite: ✓
 > ![](image/jablecny_kolac_prouzky.webp)
 >
 > Pro další dekoraci je možné použít vykrajovátka, nebo těsto rozdrobit přes plochu koláče.
->>> Krustu koláče potři rozbitým vajíčkem (nebo jen žloutkem) s vodou/mlíkem (egg wash)
+>>> krustu koláče potři rozbitým vajíčkem (nebo jen žloutkem) s vodou/mlíkem (egg wash)
 >
 
 ## Pečení & Servírování 🥧
