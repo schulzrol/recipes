@@ -1,7 +1,7 @@
 ---
 title: Jablečný Koláč
 original_title: Apple Pie
-description: Společně připravíme výborný jablečný koláč, znalosti využiješ i při vánočním pečení!
+description: aneb co udělat s přebytkem jablek 🍎🍏
 category: Dezert
 image: image/jablecny_kolac.jpg
 size: 16 porcí
